@@ -5,7 +5,7 @@
 <title>Dheeraj Chettri | Gallery</title>
 
     <!-- InstaWidget -->
-<div class="fluid-container">
+<div class="fluid-container" id="gall">
 <a href="https://instawidget.net/v/user/theweirdgenie" id="link-4334df859d5d1b844e760570872fab3e8a761753ce93378d81382dcd10821bd2">@theweirdgenie</a>
 <script src="https://instawidget.net/js/instawidget.js?u=4334df859d5d1b844e760570872fab3e8a761753ce93378d81382dcd10821bd2&width=100%"></script>
 </div>
@@ -20,3 +20,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
 </html>
+
+
+
+
