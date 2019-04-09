@@ -26,8 +26,8 @@
             <p class="footerText">Happy to help! :)</p>
             <p class="footerText">Get in touch here:</p>
             <a href="https://www.facebook.com/i.am.anaremo" target="blank" title="Facebook"><img src="<?php echo url_for('/img/dc13.png'); ?>"  id="socialLogoF"></a>
-            <a href="https://www.instagram.com/theweirdgenie" target="blank" title="Instagram"><img src="<?php echo url_for('/img/dc14.png'); ?>" id="socialLogo"></a>
-            <a href="https://www.twitter.com/theweirdgenie" target="blank" title="Twitter"><img src="<?php echo url_for('/img/dc15.png'); ?>" id="socialLogoT"></a>
+            <a href="https://www.instagram.com/theweirdgenius21" target="blank" title="Instagram"><img src="<?php echo url_for('/img/dc14.png'); ?>" id="socialLogo"></a>
+            <a href="https://www.twitter.com/theweirdgenius" target="blank" title="Twitter"><img src="<?php echo url_for('/img/dc15.png'); ?>" id="socialLogoT"></a>
             <a href="https://www.github.com/theweirdgenius" target="blank" title="GitHub"><img src="<?php echo url_for('/img/dc16.png'); ?>" id="socialLogoF"></a>
           </div>
         </div>

@@ -21,14 +21,14 @@
     <h5>Check out some of my works.</h5>
     <div class="row">
       <div class="col-md-6 workLink">
-        <a href="<?php echo url_for('unicorngame/index.php'); ?>" target="blank"><img src="./img/czcz.png" id="workImage"></a>
+        <a href="<?php echo url_for('unicorngame/'); ?>" target="blank"><img src="./img/czcz.png" id="workImage"></a>
         <p id="description">Game</p>
         <p id="descriptionMain">
           An endless runner game having a Unicorn made with love in Unity.
         </p>
       </div>
       <div class="col-md-6 workLink">
-        <a href="https://github.com/theweirdgenius/ReactPlay" target="blank"><img src="./img/dc2.png" id="workImage"></a>
+        <a href="<?php echo url_for('weather/'); ?>" target="blank"><img src="./img/dc2.png" id="workImage"></a>
         <p id="description">App</p>
         <p id="descriptionMain">
           An app that gives you the weather details of the particular location you put
@@ -51,7 +51,7 @@
         </p>
       </div>
       <div class="col-md-6 workLink">
-        <a href="https://github.com/theweirdgenius/FirstRepo/tree/master/GuessTheNumber" target="blank"><img src="./img/dc4.png" id="workImage"></a>
+        <a href="<?php echo url_for('guess/'); ?>" target="blank"><img src="./img/dc4.png" id="workImage"></a>
         <p id="description">Game</p>
         <p id="descriptionMain">
           An simple game of guessing the correct number made using HTML and JavaScript. It's fun.

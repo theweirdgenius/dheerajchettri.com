@@ -41,8 +41,8 @@
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="https://www.facebook.com/i.am.anaremo" target="blank">Facebook</a>
-              <a class="dropdown-item" href="https://www.twitter.com/theweirdgenie" target="blank">Twitter</a>
-              <a class="dropdown-item" href="https://www.instagram.com/theweirdgenie" target="blank">Instagram</a>
+              <a class="dropdown-item" href="https://www.twitter.com/theweirdgenius" target="blank">Twitter</a>
+              <a class="dropdown-item" href="https://www.instagram.com/theweirdgenius21" target="blank">Instagram</a>
               <div class="dropdown-divider"></div>
               <a class="dropdown-item" href="mailto:dheeraj_chettri@yahoo.com">Email</a>
             </div>
